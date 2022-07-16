@@ -1,0 +1,14 @@
+D:\1401summer\rahnemaChalenge\noghteKhat\bin\Debug\netcoreapp3.1\noghteKhat.exe
+D:\1401summer\rahnemaChalenge\noghteKhat\bin\Debug\netcoreapp3.1\noghteKhat.deps.json
+D:\1401summer\rahnemaChalenge\noghteKhat\bin\Debug\netcoreapp3.1\noghteKhat.runtimeconfig.json
+D:\1401summer\rahnemaChalenge\noghteKhat\bin\Debug\netcoreapp3.1\noghteKhat.runtimeconfig.dev.json
+D:\1401summer\rahnemaChalenge\noghteKhat\bin\Debug\netcoreapp3.1\noghteKhat.dll
+D:\1401summer\rahnemaChalenge\noghteKhat\bin\Debug\netcoreapp3.1\noghteKhat.pdb
+D:\1401summer\rahnemaChalenge\noghteKhat\obj\Debug\netcoreapp3.1\noghteKhat.csproj.AssemblyReference.cache
+D:\1401summer\rahnemaChalenge\noghteKhat\obj\Debug\netcoreapp3.1\noghteKhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\1401summer\rahnemaChalenge\noghteKhat\obj\Debug\netcoreapp3.1\noghteKhat.AssemblyInfoInputs.cache
+D:\1401summer\rahnemaChalenge\noghteKhat\obj\Debug\netcoreapp3.1\noghteKhat.AssemblyInfo.cs
+D:\1401summer\rahnemaChalenge\noghteKhat\obj\Debug\netcoreapp3.1\noghteKhat.csproj.CoreCompileInputs.cache
+D:\1401summer\rahnemaChalenge\noghteKhat\obj\Debug\netcoreapp3.1\noghteKhat.dll
+D:\1401summer\rahnemaChalenge\noghteKhat\obj\Debug\netcoreapp3.1\noghteKhat.pdb
+D:\1401summer\rahnemaChalenge\noghteKhat\obj\Debug\netcoreapp3.1\noghteKhat.genruntimeconfig.cache
